@@ -9,8 +9,17 @@
 
 
 
-# 💫 About Me:
-🔭 Currently cooking up projects in Flutter <br><br>⚛️ I vibe with React, Tailwind, and clean UI designs <br><br>flask developer also........<br><br>🐍 Lowkey obsessed with Python, and I even mess around with Pygame for fun<br><br>🌱 Grinding through DSA like it’s a daily quest<br><br>💬 Ask me about frontend, app dev, or anything Python-ish<br><br>⚡ Fun fact: I write code with the same energy people make coffee — fast, chaotic, and somehow it works ☕💻✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2200&pause=900&color=B7BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;LET'S+GET+THIS+SHOW+GOING+%F0%9F%8E%A5%F0%9F%92%AC" />
+</p>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=The%20Sussy%20Dev%20Zone⚡&text2=Catppuccin%20Mocha%20Vibes%20💜&width=900&height=200" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=3000&pause=1000&multiline=true&repeat=false&width=900&lines=🔭+Currently+cooking+up+projects+in+Flutter;⚛️+I+vibe+with+React%2C+Tailwind+and+clean+UI+designs;🔥+Flask+Developer+on+the+side+too;🐍+Lowkey+obsessed+with+Python+%26+Pygame;🌱+Grinding+DSA+like+it's+my+daily+quest;💬+Ask+me+about+Frontend%2C+Apps%2C+or+Python-ish;☕💻+Fun+fact%3A+I+code+like+coffee+energy%3A+fast%2C+chaotic%2C+it+works+✨" />
+</p>
+
+
 
 
 ## 🌐 Socials:
