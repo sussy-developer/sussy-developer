@@ -12,19 +12,9 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2200&pause=900&color=B7BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;LET'S+GET+THIS+SHOW+GOING+%F0%9F%8E%A5%F0%9F%92%AC" />
 </p> -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=The%20Sussy%20Dev%20⚡&text2=Catppuccin%20Mocha%20Vibes%20💜&width=900&height=200" />
-</p> 
-<!-- About Me title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2200&pause=900&color=B7BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;LET'S+GET+THIS+SHOW+GOING+%F0%9F%8E%A5%F0%9F%92%AC" />
-</p>
+
 
 <!-- Glitch banner (optional, keep if you like it) -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=The%20Sussy%20Dev%20Zone%E2%9A%A1&text2=Catppuccin%20Mocha%20Vibes%20%F0%9F%92%9C&width=900&height=200" />
-</p>
-
 <!-- About Me – part 1 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=🔭+Cooking+up+projects+in+Flutter+%26+Flask;⚛️+React+%26+Tailwind+UI+enjoyer;🐍+Python+%2B+Pygame+on+the+side" />
