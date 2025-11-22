@@ -16,14 +16,9 @@
 
 <!-- Glitch banner (optional, keep if you like it) -->
 <!-- About Me – part 1 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=🔭+Cooking+up+projects+in+Flutter+%26+Flask;⚛️+React+%26+Tailwind+UI+enjoyer;🐍+Python+%2B+Pygame+on+the+side" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Cooking+Flutter+Apps&random=1" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Cooking+Flutter+Projects" />
 
-<!-- About Me – part 2 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=🌱+Grinding+DSA+like+a+daily+quest;💬+Ask+me+about+Frontend+%26+App+Dev;☕💻+Chaotic+code+but+it+still+works+✨" />
-</p>
 
 
 
