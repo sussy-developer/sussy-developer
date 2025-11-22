@@ -16,7 +16,6 @@
 
 <!-- Glitch banner (optional, keep if you like it) -->
 <!-- About Me – part 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Cooking+Flutter+Apps&random=1" />
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Cooking+Flutter+Projects" />
 
 
