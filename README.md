@@ -13,7 +13,6 @@
            60% { transform: rotate( 0.0deg) }
           100% { transform: rotate( 0.0deg) }
         }
-
         @keyframes gradient {
           0% {
             background-position: 0% 50%;
@@ -25,34 +24,27 @@
             background-position: 0% 50%;
           }
         }
-
         .container {
           --color-main: #5452ee;
           --color-primary: #e73c7e;
           --color-secondary: #23a6d5;
           --color-tertiary: #ffff;
-
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
-
           width: 100%;
           height: 300px;
-
           display: flex;
           justify-content: center;
           align-items: center;
           color: white;
-
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
-
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
-
         @media (prefers-color-scheme: light) {
           .container {
             --color-main: #F15BB5;
@@ -61,18 +53,15 @@
             --color-tertiary: #f6f645;
           }
         }
-
         @media (prefers-reduced-motion) {
           .container {
             animation: none;
           }
-
           .hi {
             animation: none;
           }
         }
       </style>
-
       <div class="container">
         <h1>Hi there, i am parnavo,,,,, <div class="hi"></div></h1>
       </div>
