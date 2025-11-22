@@ -16,7 +16,7 @@
 
 <!-- Glitch banner (optional, keep if you like it) -->
 <!-- About Me – part 1 -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Building+UIs+with+way+too+much+care;Learning+Flask+like+a+side+quest;Trying+not+to+break+production+today" />
 </p>
 
@@ -26,6 +26,15 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=CBA6F7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Frontend+Fanboy;App+Developer+At+Heart;Pixel+Aesthetic+Enthusiast" />
+</p> -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Building%20UIs%20with%20too%20much%20care&width=900&height=80&color=F5C2E7" />
+</p>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Learning%20Flask%20like%20a%20side%20quest&width=900&height=80&color=F5C2E7" />
+</p>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Trying%20not%20to%20break%20prod%20today&width=900&height=80&color=F5C2E7" />
 </p>
 
 
