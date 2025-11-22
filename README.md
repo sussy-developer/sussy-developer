@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=900&color=B7BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+it's+sussy-developer+here!;Welcome+to+my+GitHub+%F0%9F%8C%9C" />
 </p>
 
-<p align="center" color="pink">
+<p align="center">
   <img src="https://img.shields.io/badge/Catppuccin-Mocha-1e1e2e?style=for-the-badge&logoColor=b7bdf8&logo=rainmeter" />
 </p>
 
@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=CBA6F7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Frontend+Fanboy;App+Developer+At+Heart;Pixel+Aesthetic+Enthusiast" />
 </p> -->
- <pre align="center">
+ <pre align="center",  color="pink">
   ██████████████████████████████████
   █                                █
   █  🔭  Currently cooking up      █
