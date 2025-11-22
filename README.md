@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 style="color:#fac3ff,font-family:monospace">it's me .. <b>Parnavo..</b></h1>
+<h1 style="color:#fac3ff;font-family:monospace">it's me .. <b>Parnavo..</b></h1>
 
 # 💫 About Me:
 🔭 Currently cooking up projects in Flutter <br><br>⚛️ I vibe with React, Tailwind, and clean UI designs <br><br>flask developer also........<br><br>🐍 Lowkey obsessed with Python, and I even mess around with Pygame for fun<br><br>🌱 Grinding through DSA like it’s a daily quest<br><br>💬 Ask me about frontend, app dev, or anything Python-ish<br><br>⚡ Fun fact: I write code with the same energy people make coffee — fast, chaotic, and somehow it works ☕💻✨
