@@ -30,13 +30,26 @@
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Building%20UIs%20with%20too%20much%20care&width=900&height=80&color=F5C2E7" />
 </p>
+
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Learning%20Flask%20like%20a%20side%20quest&width=900&height=80&color=F5C2E7" />
 </p>
+
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Trying%20not%20to%20break%20prod%20today&width=900&height=80&color=F5C2E7" />
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Always%20experimenting%20with%20new%20tech&width=900&height=80&color=F2CDCD" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Breaking%20things%20to%20fix%20them%20better&width=900&height=80&color=F2CDCD" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Turning%20coffee%20into%20code&width=900&height=80&color=F2CDCD" />
+</p>
 
 
 
