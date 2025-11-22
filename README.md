@@ -16,7 +16,17 @@
 
 <!-- Glitch banner (optional, keep if you like it) -->
 <!-- About Me – part 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Cooking+Flutter+Projects" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Building+UIs+with+way+too+much+care;Learning+Flask+like+a+side+quest;Trying+not+to+break+production+today" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F2CDCD&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Always+experimenting+with+new+tech;Breaking+things+just+to+fix+them+better;Turning+coffee+into+code" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=CBA6F7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Frontend+Fanboy;App+Developer+At+Heart;Pixel+Aesthetic+Enthusiast" />
+</p>
 
 
 
