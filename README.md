@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=CBA6F7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Frontend+Fanboy;App+Developer+At+Heart;Pixel+Aesthetic+Enthusiast" />
 </p> -->
- <pre>
+ <pre align="center">
   ██████████████████████████████████
   █                                █
   █  🔭  Currently cooking up      █
