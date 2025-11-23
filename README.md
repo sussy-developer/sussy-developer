@@ -1,8 +1,8 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=900&color=B7BDF8&center=true&vCenter=true&width=650&lines=Hi+there%2C+it's+sussy-developer+here!;Welcome+to+my+GitHub+%F0%9F%8C%9C" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Catppuccin-Mocha-1e1e2e?style=for-the-badge&logoColor=b7bdf8&logo=rainmeter" />
 </p>
 
