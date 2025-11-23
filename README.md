@@ -7,23 +7,9 @@
 </p>
 
  <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2200&pause=900&color=B7BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;LET'S+GET+THIS+SHOW+GOING+%F0%9F%8E%A5%F0%9F%92%AC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2200&pause=900&color=B7BDF8&center=false&vCenter=false&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;LET'S+GET+THIS+SHOW+GOING+%F0%9F%8E%A5%F0%9F%92%AC" />
 </p>
 
-
-<!-- Glitch banner (optional, keep if you like it) -->
-<!-- About Me – part 1 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F5C2E7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Building+UIs+with+way+too+much+care;Learning+Flask+like+a+side+quest;Trying+not+to+break+production+today" />
-</p>
-
-<!--<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=F2CDCD&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Always+experimenting+with+new+tech;Breaking+things+just+to+fix+them+better;Turning+coffee+into+code" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=CBA6F7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Frontend+Fanboy;App+Developer+At+Heart;Pixel+Aesthetic+Enthusiast" />
-</p> -->
  <pre align="left",  color="pink">
 🔭 Currently cooking up projects in Flutter & Flask
 
