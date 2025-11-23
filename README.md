@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/Catppuccin-Mocha-1e1e2e?style=for-the-badge&logoColor=b7bdf8&logo=rainmeter" />
 </p>
 
-
-
-<!--  --> <p align="center">
+ <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2200&pause=900&color=B7BDF8&center=true&vCenter=true&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;LET'S+GET+THIS+SHOW+GOING+%F0%9F%8E%A5%F0%9F%92%AC" />
 </p>
 
