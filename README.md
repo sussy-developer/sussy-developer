@@ -26,32 +26,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=CBA6F7&size=16&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Frontend+Fanboy;App+Developer+At+Heart;Pixel+Aesthetic+Enthusiast" />
 </p> -->
- <pre align="center",  color="pink">
-  ██████████████████████████████████
-  █                                █
-  █  🔭  Currently cooking up      █
-  █      projects in Flutter &     █
-  █      Flask                     █
-  █                                █
-  █  ⚛️  I vibe with React,        █
-  █      Tailwind, and clean UIs   █
-  █                                █
-  █  🐍  Lowkey obsessed with      █
-  █      Python & Pygame           █
-  █                                █
-  █  🌱  Grinding DSA like it's    █
-  █      a daily quest             █
-  █                                █
-  █  💬  Ask me about frontend,    █
-  █      app dev, or anything      █
-  █      Python-ish                █
-  █                                █
-  █  ⚡  Fun fact: I write code    █
-  █      with the same energy      █
-  █      people make coffee —      █
-  █      fast, chaotic, it works   █
-  █                                █
-  ██████████████████████████████████
+ <pre align="left",  color="pink">
+🔭 Currently cooking up projects in Flutter & Flask
+
+⚛️ I vibe with React, Tailwind, and clean UI designs
+
+🐍 Lowkey obsessed with Python & Pygame
+
+🌱 Grinding DSA like it's my daily quest
+
+💬 Ask me about Frontend, App Dev, or anything Python-ish              
+
   </pre>
 
 
