@@ -7,7 +7,7 @@
 </p>
 
  <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2200&pause=900&color=B7BDF8&center=false&vCenter=false&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;LET'S+GET+THIS+SHOW+GOING+%F0%9F%8E%A5%F0%9F%92%AC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2200&pause=900&color=B7BDF8&center=false&vCenter=false&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;" />
 </p>
 
  <pre align="left",  color="pink">
