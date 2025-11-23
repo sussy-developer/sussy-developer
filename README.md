@@ -5,10 +5,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Catppuccin-Mocha-1e1e2e?style=for-the-badge&logoColor=b7bdf8&logo=rainmeter" />
 </p>
-
- <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&color=B7BDF8&center=false&vCenter=false&width=800&lines=%F0%9F%92%A5+ABOUT+ME+%F0%9F%92%A5;" />
-</p>
+<h1 align = "left",color="B7BDF8">
+  About Me
+</h1>
 
  <pre align="left",  color="pink">
 🔭 Currently cooking up projects in Flutter & Flask
